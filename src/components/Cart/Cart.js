@@ -77,9 +77,14 @@ function Cart(props) {
             Close
           </button>
           {hasItems && (
-            <button className={classes.button} onClick={orderHandler}>
-              Order
-            </button>
+            <>
+              <button className={classes.button} onClick={orderHandler}>
+                Order
+              </button>
+              <button className={classes.button} onClick={ctx.clearCart}>
+                Clear
+              </button>
+            </>
           )}
         </div>
       )}
