@@ -2,6 +2,12 @@
 
 It has all the functionality working well. You can select the items you want to order and place the order. The data will be sent to the firebase database.
 
+## Link
+
+https://incredible-marzipan-028abe.netlify.app/
+
+## Preview
+
 ![CHEESE!](food.png)
 
 ## Installation
