@@ -4,7 +4,7 @@ It has all the functionality working well. You can select the items you want to 
 
 ## Link
 
-https://comforting-cuchufli-ba1d7a.netlify.app/
+<https://comforting-cuchufli-ba1d7a.netlify.app/>
 
 ## Preview
 
